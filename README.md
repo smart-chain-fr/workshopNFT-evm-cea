@@ -12,11 +12,13 @@ Open the Metamask plugin and follow the steps to create a wallet. Don't forget t
 Go to https://rinkebyfaucet.com/ and paste your address from your Metamask account. The transfer can take time depending on the congestion on the faucet.
 While waiting for your ethers, you can continue with the next steps.
 
-## 4) Open Remix IDE
+## 4) Open the template on Remix IDE
 Go to https://remix.ethereum.org/.
 Choose "LOAD FROM: Gist" and paste this ID `6c6e9e24da34d014215a6632bc077f04`. It will open a DemoERC721.sol file. This is a simple implementation of the ERC721 standard with an auto-incrementing minting function. It is based on OpenZeppelin reference implementation.
 
-## 5) On stage explanations...
+## 5) Deploy the contract, mint an NFT and publish it on testnet OpenSea
+On stage explanations...<br>
+https://testnets.opensea.io/
 
 ## Tutos
 Here are a series of easy and clear tutos to create your NFTs : <br>
